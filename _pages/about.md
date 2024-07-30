@@ -33,7 +33,7 @@ I am currently a master student at Beijing Institute of Technology (BIT). I am r
 **Tong Li**, Hansen Feng, Lizhi Wang, Zhiwei Xiong, Hua Huang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=KANjABUAAAAJ&citation_for_view=KANjABUAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Code**](https://github.com/Li-Tong-621/DMID)
+| [**Code**](https://github.com/Li-Tong-621/DMID)
 - We present a novel strategy called the Diffusion Model for Image Denoising (DMID) by understanding and rethinking the diffusion model from a denoising perspective.
 - Our DMID strategy includes an adaptive embedding method that embeds the noisy image into a pre-trained unconditional diffusion model and an adaptive ensembling method that reduces distortion in the denoised image.
 </div>
