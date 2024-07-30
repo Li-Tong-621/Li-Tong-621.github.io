@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Tong Li (李桐)"
 description              : "Beijing Institute of Technology (BIT), master student, focus on Computational Photography / Low-Level Computer Vision, Image Processing / Image Restoration, Geneative models / Diffusion model. "
-repository               : "Li-Tong-621/LiTong.github.io"
+repository               : "Li-Tong-621/Li-Tong-621.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -30,7 +30,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=KANjABUAAAAJ"
   email            : "litong@bit.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :  "http://LiTong.github.io"
+  uri              :  "http://Li-Tong-621.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
