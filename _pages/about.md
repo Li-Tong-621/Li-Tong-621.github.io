@@ -44,13 +44,17 @@ I am currently a master student at Beijing Institute of Technology (BIT). I am r
 - *2023.06* Outstanding Graduates from Beijing.
 - *2023.06* Outstanding Graduation Thesis in Beijing. 
 
+
 # 📖 Educations
 - *2023.09 - (now)*, Beijing Institute of Technology (BIT), Master. 
 - *2019.09 - 2023.06*, Beijing Institute of Technology (BIT), Bechelor. 
 
-%# 💬 Invited Talks
-%- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-%- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!--
+# 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-%# 💻 Internships
-%- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
+
