@@ -41,9 +41,9 @@ I am currently a master student at Beijing Institute of Technology (BIT). I am r
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2022.10* National Scholarship. 
-- *2023.06* Outstanding Graduates from Beijing.
-- *2023.06* Outstanding Graduation Thesis in Beijing. 
+- *2022.10* National Scholarship of China. 
+- *2023.06* Outstanding Graduate Award of Beijing.
+- *2023.06* Outstanding Graduation Thesis Award of Beijing. 
 
 
 # 📖 Educations
