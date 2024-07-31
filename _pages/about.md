@@ -25,7 +25,7 @@ I am currently a master student at Beijing Institute of Technology (BIT). I am r
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 Our paper DMID is accepted by TPAMI.
 - <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">The total number of visits to this site：<span id="busuanzi_value_site_pv"></span>次</span>
+<span id="busuanzi_container_site_pv">The total number of visits to this site：<span id="busuanzi_value_site_pv"></span></span>
 
 # 📝 Publications 
 
