@@ -19,6 +19,9 @@ redirect_from:
 
 I am currently a master student at Beijing Institute of Technology (BIT). I am reaserching under the supervision of P. Lizhi Wang. I received my bachelor's degree from BIT in 2023. My research interest includes Low-Level Computer Vision (Image Restoration), Generative models (Diffusion model) and Self-supervised methods. I'm also interested in Image Representations, Image Quality Assessment and other topics.
 
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 Our paper DMID is accepted by TPAMI.
