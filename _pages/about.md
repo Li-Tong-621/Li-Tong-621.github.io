@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a master student at Beijing Institute of Technology (BIT). I am reaserching under the supervision of P. Lizhi Wang. I received my bachelor's degree from BIT in 2023. My research interest includes Low-Level Computer Vision (Image Restoration), Generative models (Diffusion model) and Self-supervised methods. I'm also interested in Image Representations, Image Quality Assessment and other topics.
+I am currently a master student at Beijing Institute of Technology (BIT). I am reaserching under the supervision of P. Lizhi Wang. I received my bachelor's degree from BIT in 2023. My research interest includes Low-Level Computer Vision (Image Restoration), Generative models (Diffusion model) and Self-supervised methods. I'm also interested in Image Representations, Image Quality Assessment, AI for science and other interesting topics.
 
 
 
