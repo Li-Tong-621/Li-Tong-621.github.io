@@ -29,7 +29,7 @@ I am currently a master student at Beijing Institute of Technology (BIT). I am r
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPMAI 2024</div><img src='images/1-DMID.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/1-DMID.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Stimulating the Diffusion Model for Image Denoising via Adaptive Embedding and Ensembling](https://arxiv.org/abs/2307.03992)
@@ -44,7 +44,7 @@ I am currently a master student at Beijing Institute of Technology (BIT). I am r
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPMAI 2024</div><img src='images/2-P2N.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/2-P2N.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Positive2Negative: Breaking the Information-Lossy Barrier in Self-Supervised Single Image Denoising](https://arxiv.org/abs/2412.16460)
