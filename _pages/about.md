@@ -56,7 +56,7 @@ I am currently a master student at Beijing Institute of Technology (BIT). I am r
 | [**Code**](https://github.com/Li-Tong-621/P2N)
 - We propose a new self-supervised single image denoising paradigm, Positive2Negative, to break the information-lossy barrier.
 - We propose a data construction method, which constructs multi-scale similar noisy images for training.
-- Wepropose a denoising supervision method, which is theoretically guaranteed to learn robust denoising.
+- We propose a denoising supervision method, which is theoretically guaranteed to learn robust denoising.
 </div>
 </div>
 
