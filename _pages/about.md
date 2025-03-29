@@ -43,13 +43,28 @@ I am currently a master student at Beijing Institute of Technology (BIT). I am r
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPMAI 2024</div><img src='images/2-P2N.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Positive2Negative: Breaking the Information-Lossy Barrier in Self-Supervised Single Image Denoising](https://arxiv.org/abs/2412.16460)
+
+**Tong Li**, Lizhi Wang, Zhiyuan Xu, Lin Zhu, Wanxuan Lu, Hua Huang
+
+[**Paper**](https://arxiv.org/abs/2412.16460) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+| [**Code**](https://github.com/Li-Tong-621/P2N)
+- We propose a new self-supervised single image denoising paradigm, Positive2Negative, to break the information-lossy barrier.
+- We propose a data construction method, which constructs multi-scale similar noisy images for training.
+- Wepropose a denoising supervision method, which is theoretically guaranteed to learn robust denoising.
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2022.10* National Scholarship of China. 
 - *2023.06* Outstanding Graduate Award of Beijing.
 - *2023.06* Outstanding Graduation Thesis Award of Beijing. 
-
+- *2024.10* National Scholarship of China. 
 
 # 📖 Educations
 - *2023.09 - (now)*, Beijing Institute of Technology (BIT), Master. 
