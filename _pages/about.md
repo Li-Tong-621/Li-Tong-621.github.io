@@ -39,6 +39,8 @@ I am currently a master student at Beijing Institute of Technology (BIT). I am r
 
 [**Paper**](https://ieeexplore.ieee.org/document/10607932) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 | [**Code**](https://github.com/Li-Tong-621/DMID)
+| [**Note**](https://zhuanlan.zhihu.com/p/1898420817429262557)
+| [**Note**](https://zhuanlan.zhihu.com/p/639911080)
 - We present a novel strategy called the Diffusion Model for Image Denoising (DMID) by understanding and rethinking the diffusion model from a denoising perspective.
 - Our DMID strategy includes an adaptive embedding method that embeds the noisy image into a pre-trained unconditional diffusion model and an adaptive ensembling method that reduces distortion in the denoised image.
 </div>
