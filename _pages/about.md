@@ -69,6 +69,12 @@ I am currently a master student at Beijing Institute of Technology (BIT). I am r
 - *2023.06* Outstanding Graduation Thesis Award of Beijing. 
 - *2024.10* National Scholarship of China. 
 
+
+# 💻 Internships
+- *2024.12 - 2025.05*, 美团, Research (SD & FLUX Based Poster Generation)
+- *2025.05 - *, 阿里妈妈, Research (MLLM based Poster Generation)
+
+
 # 📖 Educations
 - *2023.09 - (now)*, Beijing Institute of Technology (BIT), Master. 
 - *2019.09 - 2023.06*, Beijing Institute of Technology (BIT), Bechelor. 
