@@ -71,8 +71,8 @@ I am currently a master student at Beijing Institute of Technology (BIT). I am r
 
 
 # 💻 Internships
-- *2024.12 - 2025.05*, 美团, Research (Poster Generation | SD & FLUX )
-- *2025.05 - *, 阿里妈妈, Research (Poster Generation | 基模Base Model | FLUX & HiDream)
+- *2024.12 - 2025.05*, 美团, Research (Poster Generation - SD & FLUX)
+- *2025.05 - *, 阿里妈妈, Research (基模Base Model - Poster Generation - FLUX & HiDream)
 
 
 # 📖 Educations
