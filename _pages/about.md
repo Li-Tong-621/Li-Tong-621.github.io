@@ -63,6 +63,54 @@ I am currently a master student at Beijing Institute of Technology (BIT). I am r
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/3-PDE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[PDE: Gene Effect Inspired Parameter Dynamic Evolution for Low-light Image Enhancement](https://arxiv.org/abs/2505.09196)
+
+**Tong Li**, Lizhi Wang, Hansen Feng, Lin Zhu, Hua Huang
+
+[**Paper**](https://arxiv.org/abs/2505.09196) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+| [**Code**](https://github.com/Li-Tong-621/P2N)
+- We identify and illustrate a counterintuitive phenomenon in existing models, which we refer to as the “gene effect”.
+- We propose the PDE method to mitigate the gene effect, primarily relying on the POG technique.
+- Experiments show our method mitigate the gene effect while improving the performance of LLIE.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/4-p2n-tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Positive2Negative 期刊拓展](https://arxiv.org/abs/2412.16460)
+
+**Tong Li**, Lizhi Wang, Zhiyuan Xu, Lin Zhu, Wanxuan Lu, Hua Huang
+
+[**Paper**](https://arxiv.org/abs/2412.16460) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+| [**Code**](https://github.com/Li-Tong-621/P2N)
+- We propose a new self-supervised single image denoising paradigm, Positive2Negative, to break the information-lossy barrier. +
+- We propose a data construction method, which constructs multi-scale similar noisy images for training. +
+- (Private) 
+- We propose a denoising supervision method, which is theoretically guaranteed to learn robust denoising.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/4-p2n-tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[YOND: Practical Blind Raw Image Denoising Free from Camera-Specific Data Dependency](https://arxiv.org/abs/2506.03645)
+
+Hansen Feng, Lizhi Wang, Yiqi Huang, **Tong Li**, Lin Zhu, Hua Huang
+
+[**Paper**](https://arxiv.org/abs/2412.16460) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+| [**Code**](https://github.com/Li-Tong-621/P2N)
+- We introduce a novel blind raw image denoising method. With our method, an AWGN denoiser can generalize to various real raw data with a single training on synthetic datasets. We name our method YOND, as you need nothing else under our method, You Only Need a Denoiser.
+- YOND consists of three key modules: the coarse-to-fine noise estimation (CNE), the expectation-matched variance-stabilizing transform (EM-VST), and the SNR-guided denoiser (SNR-Net).
+- Extensive experiments across diverse camera datasets, along with flexible solutions for challenging cases, demonstrate the practicality of YOND.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2022.10* National Scholarship of China. 
 - *2023.06* Outstanding Graduate Award of Beijing.
@@ -72,7 +120,7 @@ I am currently a master student at Beijing Institute of Technology (BIT). I am r
 
 # 💻 Internships
 - *2024.12 - 2025.05*, 美团, Research (Poster Generation - SD & FLUX)
-- *2025.05 - *, 阿里妈妈, Research (基模Base Model - Poster Generation - FLUX & HiDream)
+- *2025.05 - *, 阿里妈妈, T-Star Lab Research (基模Base Model - Poster Generation - FLUX & HiDream)
 
 
 # 📖 Educations
