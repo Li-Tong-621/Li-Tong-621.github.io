@@ -96,7 +96,7 @@ I am currently a master student at Beijing Institute of Technology (BIT). I am r
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/4-p2n-tpami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/5-yond.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [YOND: Practical Blind Raw Image Denoising Free from Camera-Specific Data Dependency](https://arxiv.org/abs/2506.03645)
