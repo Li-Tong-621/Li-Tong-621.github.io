@@ -120,7 +120,7 @@ Hansen Feng, Lizhi Wang, Yiqi Huang, **Tong Li**, Lin Zhu, Hua Huang
 
 # 💻 Internships
 - *2024.12 - 2025.05*, 美团, Research (Poster Generation - SD & FLUX)
-- *2025.05 - *, 阿里妈妈, T-Star Lab Research (基模Foundational Model - Poster Generation - FLUX & HiDream)
+- *2025.05 - *, 阿里妈妈, T-Star Lab Research (基模Foundational or Base Model - Poster Generation - FLUX & HiDream)
 
 
 # 📖 Educations
